@@ -1,0 +1,4 @@
+prefect>=2.14
+prefect-aws
+prefect-sqlalchemy
+psycopg2-binary
